@@ -55,8 +55,8 @@ El objetivo de este proyecto es establecer un sistema seguro de gestión de usua
 Puedes explorar el código y la estructura de ambos proyectos en los siguientes enlaces:
 
 1. [Proyecto 1: Nest.Js-Api_Rest-MySQL-NextAuth-Roles-Swagger-JWT-Docker](https://github.com/Avila-Pato/Nest.Js-Api_Rest-MySQL-NextAuth-Roles-Swagger-JWT-Docker/tree/main/Crud-Mysql)
-2. [Proyecto 2: Detalles adicionales de gestión de usuarios](#) (https://github.com/Avila-Pato/Nest.Js-Api_Rest-MySQL-NextAuth-Roles-Swagger-JWT-Docker/tree/main/nestjs-mysql--docker-tyorm-jwt-guard).
+2. [Proyecto 2: Sistema Seguro de Gestión de Usuarios](https://github.com/Avila-Pato/Nest.Js-Api_Rest-MySQL-NextAuth-Roles-Swagger-JWT-Docker/tree/main/nestjs-mysql--docker-tyorm-jwt-guard)
 
 ---
 
-Siente la libertad de personalizar o ajustar cualquier sección según tus necesidades. ¡Si necesitas más ayuda, aquí estoy!
+Si necesitas más ajustes o información, ¡házmelo saber!
