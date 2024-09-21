@@ -6,7 +6,7 @@
 - Entity
 - Service
 
-## Proposito de este proeycto.. 
+## Proposito de este proyecto.. 
 
 ## Hash de Contraseña
 - En lugar de guardar la contraseña en texto plano, se guarda un valor que resulta de aplicar una función hash a la contraseña.
