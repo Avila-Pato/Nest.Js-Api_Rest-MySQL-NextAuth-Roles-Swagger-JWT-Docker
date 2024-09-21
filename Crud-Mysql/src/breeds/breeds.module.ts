@@ -1,13 +1,21 @@
 import { Module } from '@nestjs/common';
 import { BreedsService } from './breeds.service';
 import { BreedsController } from './breeds.controller';
-import { TypeOrmModule } from '@nestjs/typeorm';
-import { Breed } from './entities/breed.entity';
+import { MongooseModule } from '@nestjs/mongoose';
+import { BreedsSchema, BreedsTaks } from './schema/breeds.schema';
 
 @Module({
-  imports: [TypeOrmModule.forFeature([Breed])],
+  imports: [
+    MongooseModule.forFeature([
+      {
+        name: BreedsTaks.name,
+        schema: BreedsSchema,
+      },
+    ]),
+  ],
   controllers: [BreedsController],
   providers: [BreedsService],
-  exports: [TypeOrmModule]
+  // Elimina TypeOrmModule de exports
+  exports: [], // No es necesario exportar nada si no se usa fuera
 })
 export class BreedsModule {}
