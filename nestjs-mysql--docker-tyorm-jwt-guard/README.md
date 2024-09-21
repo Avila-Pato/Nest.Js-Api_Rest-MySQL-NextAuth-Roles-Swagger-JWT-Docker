@@ -11,15 +11,12 @@
 - Auth
 - Roles
 
-## Registro
-
-## Hash de Contraseña
-
-## Autenticación
+## Registro + Autenticación
+- Register
 - Login
 
+## Hash de Contraseña
 ## JWT
-
 ## Autorización
 - Guard
 
