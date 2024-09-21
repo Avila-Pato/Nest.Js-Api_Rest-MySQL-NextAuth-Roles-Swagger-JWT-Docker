@@ -1,8 +1,5 @@
-# Capítulos del Video
 
-## Introducción
-
-## Resumen Video Anterior
+## Resumen Del Proyecto anterior
 
 ## Users
 - Module
