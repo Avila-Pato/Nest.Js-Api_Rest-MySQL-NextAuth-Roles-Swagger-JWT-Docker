@@ -8,8 +8,8 @@
 
 ## En este projecto se veran los siguientes puntos 
 
-# Auth
-# Roles
+- Auth
+- Roles
 
 ## Registro
 
