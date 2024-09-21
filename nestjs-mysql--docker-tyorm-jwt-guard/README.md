@@ -6,14 +6,7 @@
 - Entity
 - Service
 
-## En este projecto se veran los siguientes puntos 
-
-- Auth
-- Roles
-
-## Registro + Autenticación
-- Register
-- Login
+## Proposito de este proeycto.. 
 
 ## Hash de Contraseña
 - En lugar de guardar la contraseña en texto plano, se guarda un valor que resulta de aplicar una función hash a la contraseña.
