@@ -1,6 +1,6 @@
 # Resumen de Proyectos
 
-Este repositorio contiene dos proyectos de APIs REST construidas con NestJS, utilizando MySQL como base de datos y NextAuth para la autenticación. Ambos proyectos implementan roles de usuario, documentación interactiva con Swagger y autenticación con JWT.
+Este repositorio contiene dos proyectos de APIs REST construidas con NestJS, utilizando MySQL como base de datos con Moongose y NextAuth para la autenticación. Ambos proyectos implementan roles de usuario, documentación interactiva con Swagger y autenticación con JWT.
 
 ## Proyecto 1: API REST con NestJS, MySQL y NextAuth
 
