@@ -14,3 +14,5 @@
 - Generar tokens de acceso que protegerán nuestras rutas y garantizarán que solo los usuarios autenticados puedan acceder a determinados recursos
 ## Guard
 - Su propósito principal es verificar si el usuario está autenticado y autorizado para acceder a esa ruta. Si el usuario cumple con los criterios establecidos, se permite el acceso; de lo contrario, se deniega.
+## Roles
+-El contexto de los roles son la autorización de etiquetas o categorías que se asignan a los usuarios para definir sus permisos y accesos a diferentes recursos en una aplicación
