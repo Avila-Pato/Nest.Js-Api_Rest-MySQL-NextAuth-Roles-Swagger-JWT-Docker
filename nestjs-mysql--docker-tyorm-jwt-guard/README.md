@@ -9,8 +9,7 @@
 ## En este projecto se veran los siguientes puntos 
 
 ## Auth
-- Module
-- Controller
+## Roles
 
 ## Registro
 
